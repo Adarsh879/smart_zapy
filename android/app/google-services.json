@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "435435098486",
+    "project_id": "smart-zapy",
+    "storage_bucket": "smart-zapy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435435098486:android:7062dc16dadcc02273ea57",
+        "android_client_info": {
+          "package_name": "com.example.smart_zapy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435435098486-j27u0gcg5lruuhhbmue4d8mesaqhuvct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_byWwnNtqabWqlfNes2yV7Y35QJ5YhfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435435098486-j27u0gcg5lruuhhbmue4d8mesaqhuvct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
